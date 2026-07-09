@@ -1,0 +1,21 @@
+Hospital_Name,Founded,City,Country,Beds,ICU_Beds,Doctors,Nurses,Annual_Patients,Emergency_Cases_Year,Specialties,Type,Rating_Out_Of_5,Annual_Budget_USD
+Mayo Clinic,1889,Rochester,USA,2059,220,1900,4800,1350000,85000,45,Private,4.9,6500000000
+Cleveland Clinic,1921,Cleveland,USA,1285,180,1500,4200,1200000,92000,42,Private,4.8,11500000000
+Johns Hopkins Hospital,1889,Baltimore,USA,1145,120,2100,4400,1100000,78000,50,Private,4.8,9800000000
+Massachusetts General Hospital,1811,Boston,USA,999,150,1800,4000,1450000,95000,48,Private,4.7,5200000000
+Toronto General Hospital,1819,Toronto,Canada,471,90,900,2200,650000,42000,35,Public,4.4,1800000000
+Charite Berlin,1710,Berlin,Germany,3011,260,3200,6500,1500000,110000,55,Public,4.5,2300000000
+Karolinska University Hospital,1810,Stockholm,Sweden,1200,130,1100,3100,700000,45000,38,Public,4.6,2100000000
+Singapore General Hospital,1821,Singapore,Singapore,1785,150,1400,3800,1050000,60000,40,Public,4.6,1600000000
+King Faisal Specialist Hospital,1975,Riyadh,Saudi Arabia,1200,140,1300,3300,600000,38000,36,Private,4.5,2500000000
+Aga Khan University Hospital,1985,Karachi,Pakistan,750,80,700,1900,850000,55000,32,Private,4.4,300000000
+Shaukat Khanum Memorial Cancer Hospital,1994,Lahore,Pakistan,350,45,320,900,180000,0,20,Private,4.9,120000000
+All India Institute of Medical Sciences,1956,New Delhi,India,2478,200,2500,5200,3500000,180000,42,Public,4.3,900000000
+Seoul National University Hospital,1885,Seoul,South Korea,1750,160,1600,3900,1300000,72000,44,Public,4.6,2400000000
+University of Tokyo Hospital,1858,Tokyo,Japan,1200,110,1300,3200,900000,50000,41,Public,4.5,1900000000
+St Thomas Hospital,1173,London,UK,1050,95,1200,3500,950000,68000,39,Public,4.4,1400000000
+Great Ormond Street Hospital,1852,London,UK,412,60,700,1800,270000,15000,25,Public,4.7,700000000
+Fortis Healthcare Delhi,1996,New Delhi,India,262,40,300,750,400000,25000,30,Private,4.2,150000000
+Bumrungrad International Hospital,1980,Bangkok,Thailand,580,65,900,1900,1100000,48000,55,Private,4.7,500000000
+Cedars Sinai Medical Center,1902,Los Angeles,USA,886,120,2100,3600,1000000,88000,46,Private,4.7,4200000000
+Houston Methodist Hospital,1919,Houston,USA,946,110,1500,3300,850000,60000,37,Private,4.6,3100000000
